@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "YkDLrQ1c3WzBEBwMhtNvvFwUC758cE8PyP7CbqeiW5g",
+  "symbol": "BOSSCHIC",
+  "name": "Boss Chic Coin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/token-list/main/assets/mainnet/YkDLrQ1c3WzBEBwMhtNvvFwUC758cE8PyP7CbqeiW5g/YkDLrQ1c3WzBEBwMhtNvvFwUC758cE8PyP7CbqeiW5g.png",
+  "tags": [
+    "utility",
+    "meme"
+  ]
+}
